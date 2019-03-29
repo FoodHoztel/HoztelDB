@@ -1,0 +1,16 @@
+{
+  "name": "hozteldb",
+  "version": "1.0.0",
+  "description": "create a server for handling the data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "save": "^2.3.3"
+  }
+}
